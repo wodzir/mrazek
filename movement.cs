@@ -28,6 +28,7 @@ public class movement : MonoBehaviour {
         }
         //pobyb konec
         //skok
+		//skok ještě není plynulá animace ( WIP )
         if (Input.GetKeyDown("space"))
         {
             float vyskaSkoku = transform.position.y;
