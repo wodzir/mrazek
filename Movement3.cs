@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BoardManager : MonoBehaviour {
+public class Movement3 : MonoBehaviour {
 
 	private Rigidbody2D rb2d;
     float start;
